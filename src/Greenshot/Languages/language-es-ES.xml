@@ -94,8 +94,8 @@
 		<resource name="OK">Ok</resource>
 		<resource name="print_error">Ha sucedido un error al imprimir.</resource>
 		<resource name="printoptions_allowcenter">Centrar impresión en la página</resource>
-		<resource name="printoptions_allowenlarge">Agrandar la impresion para llenar el papel</resource>
-		<resource name="printoptions_allowrotate">Rotar imresion a orientación de la página.</resource>
+		<resource name="printoptions_allowenlarge">Agrandar la impresión para llenar el papel</resource>
+		<resource name="printoptions_allowrotate">Rotar la impresión a orientación de la página.</resource>
 		<resource name="printoptions_allowshrink">Ajustar impresión al tamaño del papel</resource>
 		<resource name="printoptions_dontaskagain">Guardar opciones por defecto y no volver a preguntar</resource>
 		<resource name="printoptions_inverted">Imprimir con colores invertidos</resource>
